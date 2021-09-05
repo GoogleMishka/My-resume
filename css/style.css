@@ -10,10 +10,11 @@ body {
     background-color: #fff;
     margin: 40px auto;
     border-radius: 20px;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
 .main-content-container {
-    margin: 90px;
+    margin: 100px 90px;
 }
 
 .about-me-proffesion {
@@ -40,37 +41,6 @@ body {
     margin-top: 40px;
 }
 
-li {
-    font-size: 14px;
-}
-
-
-ul {
-    padding-left: 15px;
-}
-
-.sidebar-container {
-    background-color: #1E2939;
-    width: 370px;
-    border-radius: 20px;
-}
-
-ol {
-    padding-left: 15px;
-}
-
-
-.img {
-    margin-top: 40px;
-    border-radius: 10px;
-}
-
-.inside-sidebar {
-    margin-top: 40px;
-    margin-left: 40px;
-    color: #fff;
-}
-
 p {
     color: #A8A8A8;
     font-size: 12px;
@@ -91,14 +61,44 @@ h3 {
     margin-bottom: 12px;
 }
 
-
+.work-ul {
+    color: #595959;
+}
 
 .vertical-delimiter {
     color: #000;
 }
 
-.work-ul {
-    color: #595959;
+li {
+    font-size: 14px;
+}
+
+
+ul {
+    padding-left: 15px;
+}
+
+.sidebar-container {
+    background-color: #1E2939;
+    width: 370px;
+    border-radius: 20px;
+}
+
+.img {
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+ol {
+    padding-left: 15px;
+}
+
+
+
+.inside-sidebar {
+    margin-top: 40px;
+    margin-left: 40px;
+    color: #fff;
 }
 
 .about-me {
