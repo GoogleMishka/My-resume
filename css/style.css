@@ -27,25 +27,24 @@ body {
     width: 400px;
 }
 
-.my-projects-container {
-    width: 485px;
+.my-expirence-container {
     margin-top: 40px;
-}
-
-.my-work-container {
-    margin-top: 50px;
+    width: 650px;
 }
 
 .my-education-container {
-    width: 350px;
+    margin-top: 40px;
+}
+
+.language-container {
     margin-top: 40px;
 }
 
 p {
     color: #A8A8A8;
     font-size: 12px;
-    margin-bottom: 8px;
-    margin-top: 11px;
+    margin-bottom: 4px;
+    margin-top: 4px;
 }
 
 .work-name-red {
@@ -53,16 +52,22 @@ p {
 }
 
 h4 {
-    margin-top: 0px;
-    margin-bottom: 12px;
+    margin-top: 12px;
+    margin-bottom: 6px;
 }
 
 h3 {
     margin-bottom: 12px;
 }
 
+h1 {
+    margin-bottom: 0px;
+}
+
 .work-ul {
     color: #595959;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 
 .vertical-delimiter {
@@ -93,12 +98,10 @@ ol {
     padding-left: 15px;
 }
 
-
-
 .inside-sidebar {
-    margin-top: 40px;
-    margin-left: 40px;
+    margin: 40px 0px 40px 20px;
     color: #fff;
+    
 }
 
 .about-me {
@@ -123,5 +126,17 @@ ol {
     font-weight: normal;
     font-size: 14px;
     line-height: 24px;
-    color: #565E6A;
+    color: #979393d3;
+}
+
+.contacts {
+    margin-left: 20px;
+}
+
+.link-section {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1b1515;
 }
